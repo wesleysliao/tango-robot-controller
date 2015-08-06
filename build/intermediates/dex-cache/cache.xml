@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/wesley/Sources/ftc_app/FtcRobotController/libs/d2xx.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="549d88cce99830dc2ae951a13d5a8b897362351b">
+        <dex dex="/home/wesley/Sources/ftc_app/FtcRobotController/build/intermediates/pre-dexed/debug/d2xx-2dd195db40643412f9da1276fefa9f672945353e.jar" />
+    </item>
+    <item
+        jar="/home/wesley/Sources/ftc_app/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="497101740494f4578ba6e4ba575e2a1d69fda2fd">
+        <dex dex="/home/wesley/Sources/ftc_app/FtcRobotController/build/intermediates/pre-dexed/debug/classes-6f5e2ac056f1117eff7072fa669f52a7399e2ccb.jar" />
+    </item>
+    <item
+        jar="/home/wesley/Sources/ftc_app/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="875a8a5fc361b21c13c53071070c1cbec44e89e4">
+        <dex dex="/home/wesley/Sources/ftc_app/FtcRobotController/build/intermediates/pre-dexed/debug/classes-f721601e0e0c8dc1da0002b2521af05ef4f6033c.jar" />
+    </item>
+    <item
+        jar="/home/wesley/Sources/ftc_app/FtcRobotController/build/intermediates/exploded-aar/ModernRobotics-release/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d89f35d277e9af491192a14007c76ccd4b5f76da">
+        <dex dex="/home/wesley/Sources/ftc_app/FtcRobotController/build/intermediates/pre-dexed/debug/classes-dcc69b96a4628e9106074fe1e645bf6fe0fc53c0.jar" />
+    </item>
+    <item
+        jar="/home/wesley/Sources/ftc_app/FtcRobotController/build/intermediates/exploded-aar/tango-ux-support-library/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="54d84482f1466f87ead40f59c4d035801acb207f">
+        <dex dex="/home/wesley/Sources/ftc_app/FtcRobotController/build/intermediates/pre-dexed/debug/classes-6b8ee30191e157d63f0f7053f85d93db54132c65.jar" />
+    </item>
+    <item
+        jar="/home/wesley/Sources/ftc_app/FtcRobotController/build/intermediates/exploded-aar/TangoUtils/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4d8dbf3901de6b811111e7ee63ed647f0300d3a1">
+        <dex dex="/home/wesley/Sources/ftc_app/FtcRobotController/build/intermediates/pre-dexed/debug/classes-0e9cb21a2d48341ede8c2fce8b19c1f8e3f201d5.jar" />
+    </item>
+    <item
+        jar="/home/wesley/Sources/ftc_app/FtcRobotController/libs/tango_java_lib.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e8c76366e9ac5cd58134a50e985f47024972a480">
+        <dex dex="/home/wesley/Sources/ftc_app/FtcRobotController/build/intermediates/pre-dexed/debug/tango_java_lib-84facb3ba6a6626915a460e0dcc7a9f23e958a1c.jar" />
+    </item>
+    <item
+        jar="/home/wesley/Sources/ftc_app/FtcRobotController/build/intermediates/exploded-aar/WirelessP2p-release/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="698105b0787db09f3fde8cb70c5192978f674cae">
+        <dex dex="/home/wesley/Sources/ftc_app/FtcRobotController/build/intermediates/pre-dexed/debug/classes-6dc04c25bf3cfd325d9406128167f1938951e72b.jar" />
+    </item>
+    <item
+        jar="/home/wesley/Sources/ftc_app/FtcRobotController/build/intermediates/exploded-aar/Analytics-release/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2b194029a3a6ae1c0d973c75fe45442b48c8f541">
+        <dex dex="/home/wesley/Sources/ftc_app/FtcRobotController/build/intermediates/pre-dexed/debug/classes-ec0df7e6e1f5ec0bc6714c30b00baff5ce940941.jar" />
+    </item>
+
+</items>
